@@ -56,6 +56,12 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
     <td align="center" width="160">
       <a href="https://libertycity.net/user/GEIGRO+Developing/"><img src="assets/socials/LC.svg" width="80" height="80" alt="LC" /></a>
     </td>
+    <td align="center" width="160">
+      <a href="https://www.instagram.com/geigrodeveloping"><img src="assets/socials/instagram.svg" width="80" height="80" alt="Instagram" /></a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.tiktok.com/@geigrodeveloping"><img src="assets/socials/tiktok.svg" width="80" height="80" alt="TikTok" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160">
@@ -73,6 +79,14 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
     <td align="center" width="160">
       <sub><b>LC</b></sub><br>
       <sub><a href="https://libertycity.net/user/GEIGRO+Developing/">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/LC.svg">Raw URL</a></sub>
+    </td>
+    <td align="center" width="160">
+      <sub><b>Instagram</b></sub><br>
+      <sub><a href="https://www.instagram.com/geigrodeveloping">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/instagram.svg">Raw URL</a></sub>
+    </td>
+    <td align="center" width="160">
+      <sub><b>TikTok</b></sub><br>
+      <sub><a href="https://www.tiktok.com/@geigrodeveloping">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/tiktok.svg">Raw URL</a></sub>
     </td>
   </tr>
 </table>
