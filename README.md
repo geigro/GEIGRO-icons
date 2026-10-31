@@ -1,5 +1,7 @@
 # GEIGRO Icons
 
+<img src="assets/geigro.svg" alt="GEIGRO" height="60" />
+
 Brand icons used across GEIGRO platforms — all in `#FF5000`.
 
 <br>
