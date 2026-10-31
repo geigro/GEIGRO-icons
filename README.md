@@ -7,18 +7,33 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
 ## Main Brand Logo
 
 <table>
-  <!-- Zeile 1: Logo -->
   <tr>
     <td align="center" width="200">
       <img src="assets/geigro.svg" height="60" alt="GEIGRO" />
     </td>
   </tr>
-  <!-- Zeile 2: Pfad -->
   <tr>
-    <td align="center" width="200" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>assets/geigro.svg</b></sub>
-      </div>
+    <td align="center" width="200">
+      <sub><b>assets/geigro.svg</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/geigro.svg">Raw URL</a></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Brand Icon
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/icons/G.svg" width="80" height="80" alt="G Icon" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <sub><b>assets/icons/G.svg</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/icons/G.svg">Raw URL</a></sub>
     </td>
   </tr>
 </table>
@@ -28,7 +43,6 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
 ## Social Icons
 
 <table>
-  <!-- Zeile 1: Logos -->
   <tr>
     <td align="center" width="160">
       <img src="assets/socials/5mods.svg" width="80" height="80" alt="5mods" />
@@ -49,37 +63,30 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
       <img src="assets/socials/tiktok.svg" width="80" height="80" alt="TikTok" />
     </td>
   </tr>
-  <!-- Zeile 2: Namen & Pfade -->
   <tr>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>5mods</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>5mods</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/5mods.svg">Raw URL</a></sub>
     </td>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>LC</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>LC</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/LC.svg">Raw URL</a></sub>
     </td>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>Discord</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>Discord</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/discord.svg">Raw URL</a></sub>
     </td>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>YouTube</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>YouTube</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/youtube.svg">Raw URL</a></sub>
     </td>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>Instagram</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>Instagram</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/instagram.svg">Raw URL</a></sub>
     </td>
-    <td align="center" width="160" style="height: 45px; padding: 0;">
-      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-        <sub><b>TikTok</b></sub>
-      </div>
+    <td align="center" width="160">
+      <sub><b>TikTok</b></sub><br>
+      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/tiktok.svg">Raw URL</a></sub>
     </td>
   </tr>
 </table>
@@ -90,7 +97,9 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
 
 ```
 assets/
-    └── geigro.svg
+├── geigro.svg
+├── icons/
+│   └── G.svg
 └── socials/
     ├── 5mods.svg
     ├── LC.svg
@@ -101,3 +110,4 @@ assets/
 ```
 
 All icons are monochrome `#FF5000`.
+
