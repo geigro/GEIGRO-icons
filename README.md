@@ -45,16 +45,16 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="assets/socials/5mods.svg" width="80" height="80" alt="5mods" />
+      <a href="https://discord.gg/JgrXUGb9e7"><img src="assets/socials/discord.svg" width="80" height="80" alt="Discord" /></a>
     </td>
     <td align="center" width="160">
-      <img src="assets/socials/LC.svg" width="80" height="80" alt="LC" />
+      <a href="https://www.youtube.com/@GEIGRO-Developing"><img src="assets/socials/youtube.svg" width="80" height="80" alt="YouTube" /></a>
     </td>
     <td align="center" width="160">
-      <img src="assets/socials/discord.svg" width="80" height="80" alt="Discord" />
+      <a href="https://www.gta5-mods.com/de/users/Geigro%20Developing"><img src="assets/socials/5mods.svg" width="80" height="80" alt="5mods" /></a>
     </td>
     <td align="center" width="160">
-      <img src="assets/socials/youtube.svg" width="80" height="80" alt="YouTube" />
+      <a href="https://libertycity.net/user/GEIGRO+Developing/"><img src="assets/socials/LC.svg" width="80" height="80" alt="LC" /></a>
     </td>
     <td align="center" width="160">
       <img src="assets/socials/instagram.svg" width="80" height="80" alt="Instagram" />
@@ -65,20 +65,20 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
   </tr>
   <tr>
     <td align="center" width="160">
-      <sub><b>5mods</b></sub><br>
-      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/5mods.svg">Raw URL</a></sub>
-    </td>
-    <td align="center" width="160">
-      <sub><b>LC</b></sub><br>
-      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/LC.svg">Raw URL</a></sub>
-    </td>
-    <td align="center" width="160">
       <sub><b>Discord</b></sub><br>
-      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/discord.svg">Raw URL</a></sub>
+      <sub><a href="https://discord.gg/JgrXUGb9e7">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/discord.svg">Raw URL</a></sub>
     </td>
     <td align="center" width="160">
       <sub><b>YouTube</b></sub><br>
-      <sub><a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/youtube.svg">Raw URL</a></sub>
+      <sub><a href="https://www.youtube.com/@GEIGRO-Developing">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/youtube.svg">Raw URL</a></sub>
+    </td>
+    <td align="center" width="160">
+      <sub><b>5mods</b></sub><br>
+      <sub><a href="https://www.gta5-mods.com/de/users/Geigro%20Developing">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/5mods.svg">Raw URL</a></sub>
+    </td>
+    <td align="center" width="160">
+      <sub><b>LC</b></sub><br>
+      <sub><a href="https://libertycity.net/user/GEIGRO+Developing/">Profil</a> · <a href="https://raw.githubusercontent.com/geigro/GEIGRO-icons/main/assets/socials/LC.svg">Raw URL</a></sub>
     </td>
     <td align="center" width="160">
       <sub><b>Instagram</b></sub><br>
