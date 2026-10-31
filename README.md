@@ -10,7 +10,7 @@ Brand icons used across GEIGRO platforms — all in `#FF5000`.
   <!-- Zeile 1: Logo -->
   <tr>
     <td align="center" width="200">
-      <img src="geigro.svg" height="60" alt="GEIGRO" />
+      <img src="assets/geigro.svg" height="60" alt="GEIGRO" />
     </td>
   </tr>
   <!-- Zeile 2: Pfad -->
